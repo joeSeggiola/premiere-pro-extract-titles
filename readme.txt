@@ -1,3 +1,4 @@
+
 Extract titles data from Adobe Premiere Pro project files.
 
 Usage:
